@@ -1,0 +1,26 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
+.lead{
+    font-weight: 300;
+}
+body {
+    background: #ffffff;
+  }
+  .contact-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 1rem;
+    padding: 2%;
+   
+  }
+  .icon{
+    margin-top: -3%;
+  }
+  .card{
+    border-radius: 1.5rem;
+  }
+  .display-4{
+    font-weight: 200;
+  }
