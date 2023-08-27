@@ -1,2 +1,2 @@
 # art
-An art portfolio website.
+An art portfolio website using Bootstrap.
