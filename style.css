@@ -7,3 +7,9 @@ font-family: 'Raleway', sans-serif;
 .navbar{
     font-weight: 500;
 }
+.navbar{
+    box-shadow: none;
+  }
+.jumbotron{
+    box-shadow: none;
+  }
