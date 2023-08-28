@@ -24,3 +24,7 @@ body {
   .display-4{
     font-weight: 200;
   }
+ .navbar{
+    box-shadow: none;
+  }
+ 
